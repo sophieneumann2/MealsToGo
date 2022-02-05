@@ -1,12 +1,5 @@
 import React from 'react';
-import {
-  StatusBar,
-  StyleSheet,
-  Text,
-  View,
-  SafeAreaView,
-  Platform
-} from 'react-native';
+import { View, SafeAreaView } from 'react-native';
 import { Searchbar } from 'react-native-paper';
 import styled from 'styled-components/native';
 
